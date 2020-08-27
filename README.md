@@ -39,6 +39,12 @@ Existe la opción de descargar Anaconda, un software que ya te trae incluido Pyt
 * **El idioma** : Podrán ver que muchos de los comentarios en las celdas de código, el nombre de los archivos y secciones de las _notebooks_ están en inglés, esto lo pensé para los usuarios que se llegasen a encontrar con mi repositorio, cuya lengua materna no sea el español, puedan entender los comentarios y de lo que trata el archivo. Elegí el inglés a ser el _idioma del mundo_, ya que la mayor cantidad de contenido de algún tema, se encuentra en inglés.
 * **Las ecuaciones** :  Las ecuaciones fueron escritas en celdas de Markdown, la manera de escribirlas es como escribir en un documento **.tex** (mejor conocido como **LaTeX**), para saber lo básico de su escritura recomiendo entrar al siguiente [_link_](https://es.overleaf.com/learn)
 
+## Advertencia extra:
+De no tener instalado **LaTeX** eliminar o comentar la siguiente línea de código:
+```Python
+#To recognize LaTeX commands
+plt.rc('text', usetex=True)
+```
 ***
 
 # Differential Equation and Vector Analysis Newsletter Plots
@@ -81,7 +87,12 @@ There is the option to download Anaconda, a software that already brings you inc
 * **The plots** : All the plots were made in a _jupyter notebook_, however the code cells are made to run in any other code editor used.
 * **The equations** : The equations were written in Markdown cells, the way to write them is like writing in a **.tex** document (better known as **LaTeX**), to know the basics of its writing I recommend to enter the following [_link_](https://es.overleaf.com/learn)
 
-
+## Warning:
+In case you don´t have LaTeX installed , please, erase or comment the following line code:
+```Python
+#To recognize LaTeX commands
+plt.rc('text', usetex=True)
+```
 
 
 
