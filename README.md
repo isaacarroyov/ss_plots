@@ -1,7 +1,7 @@
 # Gráficas de los Boletines de Ecuaciones Diferenciales y Análisis Vectorial 
 
 ## Proyecto de Servicio Social (en resumen):
-Durante el primer semestre del 2020, estuve realizando mi Servicio Social en la Facultad de Ingeniería de la UADY (FIUADY) en el proyecto "Programa de Ayudantías en Ciencias Básicas para el Reforzamiento del Desarrollo Académico" (PACB), sin embargo, para la comunidad estudiantil de la FIUADY es mayormente conocido como "Ayudantías.
+Durante el primer semestre del 2020, estuve realizando mi Servicio Social en la Facultad de Ingeniería de la UADY (FIUADY) en el proyecto "Programa de Ayudantías en Ciencias Básicas para el Reforzamiento del Desarrollo Académico" (PACB), sin embargo, para la comunidad estudiantil de la FIUADY es mayormente conocido como "Ayudantías".
 
 Este proyecto tiene como objetivo (y como su nombre lo dice) ayudar a los estudiantes de la FIUADY con las asignaturas del bloque de Ciencias Básicas, tales como: Álgebra I, Álgebra II, Cálculo Diferencial e Integral I (univariable), Cálculo Diferencial e Integral II (multivariable), Análisis Vectorial (tambien conocido como Cálculo Vectorial) y Ecuaciones Diferenciales. El equipo de alumnos involucrados en este proyecto de Servicio Social se encargaba de dos asignautas cada quien, en mi caso, estuve a cargo de Ecuaciones Diferenciales y Análisis Vectorial. 
 
@@ -55,7 +55,7 @@ plt.rc('text', usetex=True)
 
 ## Social Service Project (summary):
 
-During the first semester of 2020, I was doing my Social Service at the Faculty of Engineering of UADY (FIUADY) in the project "Programa de Ayudantías en Ciencias Básicas para el Reforzamiento del Desarrollo Académico" (PACB), however, for the student community of FIUADY it is mostly known as "Ayudantías"
+During the first semester of 2020, I was doing my Social Service at the Faculty of Engineering of UADY (FIUADY) in the project "Programa de Ayudantías en Ciencias Básicas para el Reforzamiento del Desarrollo Académico" (PACB), however, for the student community of FIUADY it is mostly known as "Ayudantías".
 
 This project aims (and as its name says) to help FIUADY students with the subjects of Basic Sciences, such as: Algebra I, Algebra II, Differential and Integral Calculus I (univariate), Differential and Integral Calculus II (multivariate), Vector Analysis (also known as Vector Calculus) and Differential Equations. The team of students involved in this Social Service project was in charge of two assignments each. In my case, I was in charge of Differential Equations and Vector Analysis.
 
