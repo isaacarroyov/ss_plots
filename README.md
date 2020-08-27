@@ -51,7 +51,7 @@ plt.rc('text', usetex=True)
 ```
 ***
 
-# Differential Equation and Vector Analysis Newsletters Plots
+# Differential Equations and Vector Analysis Newsletters Plots
 
 ## Social Service Project (summary):
 
