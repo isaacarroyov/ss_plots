@@ -3,7 +3,7 @@
 ## Proyecto de Servicio Social (en resumen):
 Durante el primer semestre del 2020, estuve realizando mi Servicio Social en la Facultad de Ingeniería de la UADY (FIUADY) en el proyecto "Programa de Ayudantías en Ciencias Básicas para el Reforzamiento del Desarrollo Académico" (PACB), sin embargo, para la comunidad estudiantil de la FIUADY es mayormente conocido como "Ayudantías".
 
-Este proyecto tiene como objetivo (y como su nombre lo dice) ayudar a los estudiantes de la FIUADY con las asignaturas del bloque de Ciencias Básicas, tales como: Álgebra I, Álgebra II, Cálculo Diferencial e Integral I (univariable), Cálculo Diferencial e Integral II (multivariable), Análisis Vectorial (tambien conocido como Cálculo Vectorial) y Ecuaciones Diferenciales. El equipo de alumnos involucrados en este proyecto de Servicio Social se encargaba de dos asignautas cada quien, en mi caso, estuve a cargo de Ecuaciones Diferenciales y Análisis Vectorial. 
+Este proyecto tiene como objetivo (y como su nombre lo dice) ayudar a los estudiantes de la FIUADY con las asignaturas del bloque de Ciencias Básicas, tales como: Álgebra I, Álgebra II, Cálculo Diferencial e Integral I (Cálculo Univariable), Cálculo Diferencial e Integral II (Cálculo Multivariable), Análisis Vectorial (tambien conocido como Cálculo Vectorial) y Ecuaciones Diferenciales. El equipo de alumnos involucrados en este proyecto de Servicio Social se encargaba de dos asignautas cada quien, en mi caso, estuve a cargo de Ecuaciones Diferenciales y Análisis Vectorial. 
 
 La principal ayuda o servicio que ofrece este programa es brindar a los estudiantes asesorías en los temas en los que ellos requieran ayuda, además de darles un seguimiento de su progreso durante el semestre, sin costo alguno.
 
@@ -13,7 +13,7 @@ La principal tarea que teníamos era brindar asesorías, pero no era la única. 
 Debido al nuevo coronavirus SARS-Cov-2 que causa la pandemia de la enfermedad COVID19 se dejé de brindar las asesorías de manera presencial pero continué realizando los boletines. Los conocimientos de Python que adquirí durante las asignaturas optativas de **Introducción a la Ciencia de Datos** y **Ciencia de Datos** son las bases que me ayudaron a poder realizar este tipo de gráficas.
 
 ## Objetivo del repositorio
-El principal objetivo de este repositorio es mostrar lo que se puede hacer con librerías del lenguaje de programación de **Python**, esto como una alternativa al uso de otros softwares de paga como por ejmplo: _Wolfram Mathematica_ y _MATLAB_. ¿Por qué? Python es un lenguaje de código abierto (tambien llamado _open source_, o como me gusta decir **es gratis**) con una ampia gama de librerías que facilitan las tareas que queramos realizar. Python es muy conocido debido a su popular uso en el área de **Ciencia de Datos** pero en este repositorio mostraré el uso en la visualización de gráficas en el área de las matemáticas básicas (el área de Ciencia de Datos se dejará para otra ocasión).
+El principal objetivo de este repositorio es mostrar lo que se puede hacer con librerías del lenguaje de programación de **Python**, esto como una alternativa al uso de otros softwares de paga como por ejmplo: _Wolfram Mathematica_ y _MATLAB_. ¿Por qué? Python es un lenguaje de código abierto (tambien llamado _open source_, o como me gusta decir **es gratis**) con una amplia gama de librerías que facilitan las tareas que queramos realizar. Python es muy conocido debido a su popular uso en el área de **Ciencia de Datos** pero en este repositorio mostraré el uso en la visualización de gráficas en el área de las matemáticas básicas (el área de Ciencia de Datos se dejará para otra ocasión).
 
 ## Requisitos
 Las versiones que uso y usé para la realización del repositorio se enlistan a continuación.
@@ -57,7 +57,7 @@ plt.rc('text', usetex=True)
 
 During the first semester of 2020, I was doing my Social Service at the Faculty of Engineering of UADY (FIUADY) in the project "Programa de Ayudantías en Ciencias Básicas para el Reforzamiento del Desarrollo Académico" (PACB), however, for the student community of FIUADY it is mostly known as "Ayudantías".
 
-This project aims (and as its name says) to help FIUADY students with the subjects of Basic Sciences, such as: Algebra I, Algebra II, Differential and Integral Calculus I, Differential and Integral Calculus II, Vector Analysis (also known as Vector Calculus) and Differential Equations. The team of students involved in this Social Service project was in charge of two assignments each. In my case, I was in charge of Differential Equations and Vector Analysis.
+This project aims (and as its name says) to help FIUADY students with the subjects of Basic Sciences, such as: Algebra I, Algebra II, Differential and Integral Calculus I ( Univariate Calculus), Differential and Integral Calculus II  (Multivariate Calculus), Vector Analysis (also known as Vector Calculus) and Differential Equations. The team of students involved in this Social Service project was in charge of two assignments each. In my case, I was in charge of Differential Equations and Vector Calculus.
 
 The main help or service offered by this program is to provide students with advice on the topics in which they require assistance, in addition to monitoring their progress during the semester, at no cost.
 
@@ -73,7 +73,7 @@ The main objective of this repository is to show what can be done with libraries
 The versions I use (and used) for the realization of the repository are listed below.
 ### Software
 * **Python 3.8.1** or higher ([_Official Python_ page](https://www.python.org/downloads/) )
-* (Not necessary but recommended) **Jupyter Notebook** ( [_Project Jupyter's official website](https://jupyter.org/) )
+* (Not necessary but recommended) **Jupyter Notebook** ( [_Project Jupyter's official website_](https://jupyter.org/) )
 
 ### Libraries
 * **Numpy 1.19.0** ([_documentation of NumPy_](https://numpy.org/doc/))
